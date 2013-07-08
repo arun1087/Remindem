@@ -1,0 +1,15 @@
+RSVP-create
+
+class RSVPCreate{
+ String name;
+ String address;
+ Date date;
+ Date endDate;
+ int numOfGuests;
+ String time;
+ String emaillist;
+ String comment;
+
+//getters and setters
+
+}

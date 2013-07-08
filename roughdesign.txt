@@ -1,0 +1,30 @@
+Login
+__________________
+username-email
+password
+firstname
+last name
+
+RSVP-create
+_________________
+event name
+event address
+event date
+event end date(if more than one day-optional)
+Number of guests allowed(optional)
+event start time
+event end time
+email list
+Comment
+
+RSVP-respond
+_________________
+Accept
+Decline
+Number of guests
+   Adults
+   Kids
+   Infants
+
+Comment
+
